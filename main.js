@@ -1,4 +1,4 @@
-const gun = GUN(['https://gun-manhattan.herokuapp.com/gun']);
+const gun = GUN(['wss://marshy-polarized-pocket.glitch.me/gun']);
 
 paste = document.getElementById("paste");
 
